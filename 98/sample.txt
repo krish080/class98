@@ -1,0 +1,4 @@
+mango
+yellow
+this is a sample file.txt
+
